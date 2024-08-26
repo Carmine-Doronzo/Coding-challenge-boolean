@@ -1,0 +1,2 @@
+Questo è stato il mio primissimo progetto che mi ha permesso di superare la prova di ammissione al Boolean bootcamp.
+Per eseguirlo ho seguito un pre-corso sempre offerto da loro dove ho imparato le basi di HTML e CSS
